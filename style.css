@@ -7,8 +7,10 @@
 body {
     background-color: blueviolet;
     width: 100 vh;
-    height: 150vh
+    height: 150vh;
+
 }
 p {
-    color: red;;
+    color: red;
+    font-size: large;
 }
